@@ -1,0 +1,2 @@
+5|1|Klima|Yazlık|Satılık|1|50000|True|Deniz
+1|2|Soba|Apartman|Kiralık|2|45000|True|44

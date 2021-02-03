@@ -1,0 +1,11 @@
+C:\Users\giz\source\repos\EstateApp\EstateApp\bin\Debug\EstateApp.exe.config
+C:\Users\giz\source\repos\EstateApp\EstateApp\bin\Debug\EstateApp.exe
+C:\Users\giz\source\repos\EstateApp\EstateApp\bin\Debug\EstateApp.pdb
+C:\Users\giz\source\repos\EstateApp\EstateApp\obj\Debug\EstateApp.csprojAssemblyReference.cache
+C:\Users\giz\source\repos\EstateApp\EstateApp\obj\Debug\EstateApp.Properties.Resources.resources
+C:\Users\giz\source\repos\EstateApp\EstateApp\obj\Debug\EstateApp.csproj.GenerateResource.cache
+C:\Users\giz\source\repos\EstateApp\EstateApp\obj\Debug\EstateApp.csproj.CoreCompileInputs.cache
+C:\Users\giz\source\repos\EstateApp\EstateApp\obj\Debug\EstateApp.exe
+C:\Users\giz\source\repos\EstateApp\EstateApp\obj\Debug\EstateApp.pdb
+C:\Users\giz\source\repos\EstateApp\EstateApp\obj\Debug\EstateApp.MainPage.resources
+C:\Users\giz\source\repos\EstateApp\EstateApp\obj\Debug\EstateApp.EditScreen.resources
